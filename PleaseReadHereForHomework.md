@@ -1,4 +1,4 @@
-Hi Mike,
+Hello,
 
 I hope this message finds you well. I wanted to reach out to you in advance regarding my VBA assignment. Unfortunately, the past couple of weeks have been extremely busy for me at work, and I've found the VBA and Python tasks to be quite challenging.
 
